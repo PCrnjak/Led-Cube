@@ -1,0 +1,54 @@
+
+
+   ---- Transcoding 'C:\Users\Rope\Desktop\GRBLS\led kocka gornja.GBS' ----   Sat Feb 03 20:19:41 2018
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Rope\Desktop\GRBLS\led kocka gornja.GTL' ----   Sat Feb 03 20:19:41 2018
+
+D10   --> D101
+D12   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Rope\Desktop\GRBLS\led kocka gornja.GTO' ----   Sat Feb 03 20:19:41 2018
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Rope\Desktop\GRBLS\led kocka gornja.GTS' ----   Sat Feb 03 20:19:41 2018
+
+D10   --> D105
+D11   --> D106
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Rope\Desktop\GRBLS\led kocka gornja.GBS' ----   Sat Feb 03 20:20:59 2018
+
+D10   --> D100
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Rope\Desktop\GRBLS\led kocka gornja.GTL' ----   Sat Feb 03 20:20:59 2018
+
+D10   --> D101
+D12   --> D102
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Rope\Desktop\GRBLS\led kocka gornja.GTO' ----   Sat Feb 03 20:20:59 2018
+
+D10   --> D103
+D11   --> D104
+-----------------------------------------------------------------
+
+
+   ---- Transcoding 'C:\Users\Rope\Desktop\GRBLS\led kocka gornja.GTS' ----   Sat Feb 03 20:20:59 2018
+
+D10   --> D105
+D11   --> D106
+-----------------------------------------------------------------
