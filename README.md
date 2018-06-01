@@ -2,11 +2,13 @@
 
 [![34053068_1499386373505176_169624549329993728_n](https://user-images.githubusercontent.com/30388414/40851342-6bceb6f2-65c7-11e8-82b1-2a388cab09af.jpg)](https://www.youtube.com/watch?v=qzwoztolV-c)
 
-# **Contents** 
+
 
 # **Intro**
 
-Small and compact led cube that is (kinda) easy to build.I decided to make this project for my own amusement and to train smd soldering and pcb design. Code and program are not made  by me all credit goes to: http://www.instructables.com/id/LED-CUBE-CODE-4x4x4-Arduino/ .
+Small and compact led cube powered by usb  that is (kinda) easy to build.I decided to make this project for my own amusement and to train smd soldering and pcb design. Code and program are not made  by me all credit goes to: http://www.instructables.com/id/LED-CUBE-CODE-4x4x4-Arduino/ .
+
+# **Contents**
 
 # **Bill of materials**
 
@@ -17,7 +19,7 @@ There are also Eagle schematic and board files for both pcbs . I ordered them [J
 ![8253991a-6bf4-496f-b503-892c4d37bfae](https://user-images.githubusercontent.com/30388414/40852599-364db718-65cb-11e8-89c3-0b44dfcc94bc.jpg)
 
 # **Soldering components**
- Well you will need to have some skills with soldering iron and solder all those smd components. Hardest part is soldering leds .You will need to cut 16 3mm holes that are 1.5 mm one from another on peace of cardboard. This will keep all leds at exact distance and make soldering easier.
+ Well you will need to have some skills with soldering iron and solder all those smd components. Hardest part is soldering leds .You will need to cut 16 3mm holes that are 1.5 mm one from another on peace of cardboard. This will keep all leds at exact distance and make soldering easier.you will need to solder all 4 led planes with magnet wire to pcb board.
  
  # **Burning Arduino bootlaoder**
  Maybe you can find those smd atmega 328 with already burnt bootloader or you can burn it yourself. I made a mistake on board and didnt want to redo it so to burn bootloader follow these instructions.![ledkocka bootloader](https://user-images.githubusercontent.com/30388414/40853525-ae76581e-65ce-11e8-86de-0de6731c919b.jpg)
