@@ -25,7 +25,7 @@ There are also Eagle schematic and board files for both pcbs . I ordered them [J
  Maybe you can find those smd atmega 328 with already burnt bootloader or you can burn it yourself. I made a mistake on board and didnt want to redo it so to burn bootloader follow these instructions.![ledkocka bootloader](https://user-images.githubusercontent.com/30388414/40853525-ae76581e-65ce-11e8-86de-0de6731c919b.jpg)
  solder wires like shown in picture ,  and connect them to ftdi programmer .
 Miso to miso , mosi to mosi , sck to sck , gnd to gnd ,vcc to vcc,DTR ON LED BOARD is not dtr .
-Connect dtr from ftdi programmer to wire that is shown on picture.
+Connect dtr from ftdi programmer to wire that is shown on picture.Cap on picture is 47 uF.
 
 
 # **Code**
