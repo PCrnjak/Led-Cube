@@ -30,7 +30,7 @@ Connect dtr from ftdi programmer to wire that is shown on picture.
 
 # **Code**
 Once again code is not written by me. There are 2 example programs [LEDFADE](https://github.com/Ropecar5/Led-Cube/tree/master/LEDFADE) and
-[shooting star](https://github.com/Ropecar5/Led-Cube/tree/master/shooting_star).[LCCG.exe](https://github.com/Ropecar5/Led-Cube/blob/master/LCCG.exe) is program used to generate patterns in wich cube will light up.
+[shooting star](https://github.com/Ropecar5/Led-Cube/tree/master/shooting_star).[LCCG.exe](https://github.com/Ropecar5/Led-Cube/blob/master/LCCG.exe) is program used to generate patterns in wich cube will light up.  To upload code you will need FTDI usb to TTL serial converter that connects to corresponding pins on board.
 # **Case**
 [STL](https://github.com/Ropecar5/Led-Cube/tree/master/files) file. Printed on cheap chinese prusa clone with 0.2 mm layer height.
 
