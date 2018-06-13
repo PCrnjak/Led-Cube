@@ -4,12 +4,13 @@
 
 
 
-## Intro<a name="intro"></a>
+## **Intro**<a name="intro"></a>
 
 Small and compact led cube powered by usb  that is (kinda) easy to build.I decided to make this project for my own amusement and to train smd soldering and pcb design. Code and program are not made  by me all credit goes to: http://www.instructables.com/id/LED-CUBE-CODE-4x4x4-Arduino/ .
 
-## Table of contents<a name="table"></a>
+## **Table of contents**<a name="table"></a>
  1.[Intro](#intro)
+ 
  2.[Table of contents](#table)
     
    
