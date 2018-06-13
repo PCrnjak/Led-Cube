@@ -9,14 +9,14 @@
 Small and compact led cube powered by usb  that is (kinda) easy to build.I decided to make this project for my own amusement and to train smd soldering and pcb design. Code and program are not made  by me all credit goes to: http://www.instructables.com/id/LED-CUBE-CODE-4x4x4-Arduino/ .
 
 ## Table of contents<a name="table"></a>
- 1.[Intro](#intro)
- 2.[Table of contents](#table)
- 3.[Bill of materials](#bill)
- 4.[Making boards](#board)
- 5.[Soldering components](#solder)
- 6.[Burning Arduino bootloader](#burn)
- 7.[Code](#code)
- 8.[Case](#case)
+ 1. [Intro](#intro)
+ 2. [Table of contents](#table)
+ 3. [Bill of materials](#bill)
+ 4. [Making boards](#board)
+ 5. [Soldering components](#solder)
+ 6. [Burning Arduino bootloader](#burn)
+ 7. [Code](#code)
+ 8. [Case](#case)
    
    
    
