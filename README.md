@@ -11,7 +11,7 @@ Small and compact led cube powered by usb  that is (kinda) easy to build.I decid
 # **Contents**
 
 # **Bill of materials**
-
+  [ Bill of materials](https://github.com/Ropecar5/Led-Cube/blob/master/BILL%20OF%20MATERIALS.txt)
 # **Making boards**
 in [GBRLS](https://github.com/Ropecar5/Led-Cube/tree/master/GRBLS) folder there are all grbl files needed to make boards for led cube.
 you will need to make 2 boards ,one top one on wich you will place your led cube and one bottom one that has all electronics.
