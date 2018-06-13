@@ -4,13 +4,16 @@
 
 
 
-# **Intro**
+#Intro<a name="intro"></a>
 
 Small and compact led cube powered by usb  that is (kinda) easy to build.I decided to make this project for my own amusement and to train smd soldering and pcb design. Code and program are not made  by me all credit goes to: http://www.instructables.com/id/LED-CUBE-CODE-4x4x4-Arduino/ .
 
-# **Contents**
-
-# **Bill of materials**
+# Table of contents
+ 1.[Intro](#intro)
+    
+   
+   
+#**Bill of materials**
   [ Bill of materials](https://github.com/Ropecar5/Led-Cube/blob/master/BILL%20OF%20MATERIALS.txt)
 # **Making boards**
 in [GBRLS](https://github.com/Ropecar5/Led-Cube/tree/master/GRBLS) folder there are all grbl files needed to make boards for led cube.
