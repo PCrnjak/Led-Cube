@@ -1,0 +1,29 @@
+///////////////////////////////////////
+BILL OF MATERIALS /////////////////////
+///////////////////////////////////////
+
+
+RESISTORS:
+17 x 0805 package 330 ohm 
+1  x 0805 package 10 Kohm 
+4  x 0805 package 540 ohm
+
+CAPACITORS:
+3  x 0805 package 0.1 uF 
+2  x 0805 package 22 pF
+
+LED DIODES:
+64 x 3mm White led
+1 x 0603 Red led
+
+_______________________
+1 x Atmega328p -TQFP
+1 x HC49UP package 16 Mhz crystal oscillator
+1 x SMD usb mini B 5 pin
+1 x  3X6X2.5mm Tactile Push Button SMD
+4 x MMBT2222 SOT-23 2N2222 SMD NPN Transistor 
+-Female and male header pins ( few rows )
+-Magnet wire
+
+
+//////////////////////////////////////////
